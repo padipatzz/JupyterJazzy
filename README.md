@@ -1,0 +1,2 @@
+# JupyterJazzy
+JupyterJazzy class 
